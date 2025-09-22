@@ -2,7 +2,6 @@
 tylerkelly7/tylerkelly7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-=======
 # Hi, I'm Tyler
 
 🎓 **M.S. in Biostatistics** | 📊 **Machine Learning for Healthcare & Finance**  
