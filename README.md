@@ -3,14 +3,14 @@ tylerkelly7/tylerkelly7 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 =======
-# Hi, I'm Tyler 👋
+# Hi, I'm Tyler
 
 🎓 **M.S. in Biostatistics** | 📊 **Machine Learning for Healthcare & Finance**  
-🚀 Aspiring to bridge **statistical rigor + ML** for real-world impact.  
+🚀 Building reproducible projects to bridge **statistical rigor + ML** for real-world impact. 
 
 ---
 
-## 🔥 Highlighted Projects
+## Highlighted Projects
 
 ### 🏦 Quantitative Finance
 - Market Prediction with ML
@@ -34,9 +34,8 @@ Deployment (Streamlit, Docker, GitHub Actions)
 ---
 
 ## 📫 Contact
-- Resume link here
-- LinkedIn link here
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/tylerkelly7/
+- Email: tylerjkelly77@gmail.com
 
 ⭐️ *Pinned repos highlight my best work in quantitative finance and healthcare ML.*
 >>>>>>> eebdb9b (Initial commit: GitHub profile README)
