@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<!--
 ## 📁 Highlighted Projects
 
 ### 🏦 Quantitative Finance
@@ -24,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 - Sepsis Mortality Prediction Thesis
 
 ---
+-->
 
 ## ⚒️ Skills
 Python, R, SQL, Bash • Scikit-learn, PyTorch, XGBoost, Transformers •  
@@ -35,6 +37,7 @@ Deployment (Streamlit, Docker, GitHub Actions)
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/tylerkelly7/
 - Email: tylerjkelly77@gmail.com
+
 
 ⭐️ *Pinned repos highlight my best work in quantitative finance and healthcare ML.*
 >>>>>>> eebdb9b (Initial commit: GitHub profile README)
