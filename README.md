@@ -3,13 +3,13 @@ tylerkelly7/tylerkelly7 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
 # Hi, I'm **Tyler Kelly**
 
 🎓 **M.S. Biostatistics @ University of Pittsburgh**  
 💡 Machine Learning | NLP | MLOps | Data Science | Statistical Analysis  
 📍 Based in Pittsburgh, PA | Open to relocation
 
+---
 
 ### Summary
 I’m passionate about **building end-to-end machine learning pipelines** — from data ingestion and feature engineering to model deployment and reproducibility.  
@@ -17,13 +17,20 @@ Currently, my master’s thesis focuses on predicting sepsis mortality using mul
 
 Outside healthcare, I explore **quantitative finance**, experimenting with factor models, reinforcement learning, and event-driven trading strategies.
 
+---
+
 ### 🧰 Technical Stack
 
-**Languages:** Python • R • SQL • Bash  
-**ML / DL:** Scikit-learn • XGBoost • PyTorch • TensorFlow • Transformers  
-**NLP:** Word2Vec • BERT / ClinicalBERT • spaCy • NLTK  
-**Data:** MIMIC-IV • BigQuery • WRDS • Yahoo Finance  
-**MLOps / Tools:** Docker • MLflow • GitHub Actions • Streamlit • CI/C
+| **Category** | **Tools & Technologies** |
+|---------------|---------------------------|
+| **Languages** | Python • R • SQL • Bash |
+| **ML / DL Frameworks** | Scikit-learn • XGBoost • LightGBM • PyTorch • TensorFlow |
+| **NLP Libraries** | Word2Vec • Transformers (BERT / ClinicalBERT) |
+| **Model Development** | Feature Engineering • Hyperparameter Tuning • Cross-Validation |
+| **MLOps / Reproducibility** | Docker • MLflow • GitHub Actions • CI/CD |
+| **Visualization** | ggplot • Matplotlib • Seaborn • Plotly • Streamlit Dashboards |
+| **Other Skills** | Statistical Inference • Experimental Design • Data Cleaning |
+
 ---
 
 <!--
@@ -56,8 +63,7 @@ Outside healthcare, I explore **quantitative finance**, experimenting with facto
 <!--[![Resume](https://img.shields.io/badge/Resume-View-blueviolet?logo=readthedocs)](https://github.com/tylerkelly7/Masters-Thesis/blob/main/docs/Resume_General.pdf)
 -->
 
-
-⭐️ *Pinned repos highlight my best work in quantitative finance and healthcare ML.*
+---
 
 <!-- Optional aesthetic badges -->
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
