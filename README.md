@@ -58,7 +58,6 @@ Outside healthcare, I explore **quantitative finance**, experimenting with facto
 
 
 ⭐️ *Pinned repos highlight my best work in quantitative finance and healthcare ML.*
->>>>>>> eebdb9b (Initial commit: GitHub profile README)
 
 <!-- Optional aesthetic badges -->
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
