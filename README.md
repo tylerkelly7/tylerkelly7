@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, I'm **Tyler Kelly**
+*Bridging statistical research, machine learning, and applied engineering.*
 
 🎓 **M.S. Biostatistics @ University of Pittsburgh**  
 💡 Machine Learning | NLP | MLOps | Data Science | Statistical Analysis  
@@ -11,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Summary
+### 🧠 Summary
 I’m passionate about **building end-to-end machine learning pipelines** — from data ingestion and feature engineering to model deployment and reproducibility.  
-Currently, my master’s thesis focuses on predicting sepsis mortality using multi-modal EHR data, integrating both structured data and NLP of clinical notes via Word2Vec embeddings.
+My current graduate research focuses on developing robust, interpretable models for **real-world decision support** using both structured and unstructured data.
 
-Outside healthcare, I explore **quantitative finance**, experimenting with factor models, reinforcement learning, and event-driven trading strategies.
+Beyond academic research, I explore **quantitative finance** and **AI engineering**, experimenting with predictive modeling, reinforcement learning, and scalable deployment workflows.
 
 ---
 
@@ -47,14 +48,22 @@ Outside healthcare, I explore **quantitative finance**, experimenting with facto
 - [**Reinforcement Learning for Trading**](https://github.com/tylerkelly7/Quant_Reinforcement_Learning): RL agent trained to trade in synthetic market environments.
 
 ---
+-->
 
-#### 📊 Current Focus
-- Thesis Finalization (Sepsis Mortality Prediction, Nov 2025)
-- Building Quantitative projects
-- Expanding MLOps coverage (Docker + MLflow + CI/CD integrations)
+### 📊 Current Focus
+- Finalizing M.S. thesis on **Sepsis Mortality Prediction** (Nov 2025)
+- Prototyping advanced **deep learning** and **reinforcement learning** agents for applied research
+- Expanding **MLOps infrastructure** with Docker, MLflow, and GitHub Actions CI/CD automation
 
 ---
--->
+
+### ⚙️ Toolkit Demonstrations
+Framework-specific mini-repos showcasing reproducible ML workflows:
+
+- [**PyTorch Projects**](https://github.com/tylerkelly7/PyTorch_Projects): CNNs, RNNs, and transfer learning pipelines with experiment tracking
+- [**TensorFlow Projects**](https://github.com/tylerkelly7/TensorFlow_Projects): End-to-end model training with checkpoints, callbacks, and CI/CD testing
+- [**Docker & MLflow**](https://github.com/tylerkelly7/Docker_CI_CD): Reproducible MLOps workflows and experiment tracking setup
+- [**Airflow Pipelines**](https://github.com/tylerkelly7/Airflow_Pipelines): Data orchestration and scheduled retraining workflows
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tylerkelly7/)
@@ -64,8 +73,7 @@ Outside healthcare, I explore **quantitative finance**, experimenting with facto
 -->
 
 ---
-
-<!-- Optional aesthetic badges -->
+**Tools & Frameworks*
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
 ![MLflow](https://img.shields.io/badge/MLflow-integrated-brightgreen?logo=mlflow)
