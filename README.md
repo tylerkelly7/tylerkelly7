@@ -60,7 +60,7 @@ Beyond academic research, I explore **quantitative finance** and **AI engineerin
 ### ⚙️ Toolkit Demonstrations
 Framework-specific mini-repos showcasing reproducible ML workflows:
 
-- [**PyTorch Projects**](https://github.com/tylerkelly7/PyTorch_Projects): CNNs, RNNs, and transfer learning pipelines with experiment tracking
+- [**PyTorch Projects**](https://github.com/tylerkelly7/PyTorch): CNNs, RNNs, and transfer learning pipelines with experiment tracking
 - [**TensorFlow Projects**](https://github.com/tylerkelly7/TensorFlow_Projects): End-to-end model training with checkpoints, callbacks, and CI/CD testing
 - [**Docker & MLflow**](https://github.com/tylerkelly7/Docker_CI_CD): Reproducible MLOps workflows and experiment tracking setup
 - [**Airflow Pipelines**](https://github.com/tylerkelly7/Airflow_Pipelines): Data orchestration and scheduled retraining workflows
