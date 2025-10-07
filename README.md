@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 🧠 Summary
 I’m passionate about **building end-to-end machine learning pipelines** — from data ingestion and feature engineering to model deployment and reproducibility.  
-My current graduate research focuses on developing robust, interpretable models for **real-world decision support** using both structured and unstructured data.
+My current graduate research focuses on developing robust, interpretable ML workflows using both structured and unstructured EHR data.
 
-Beyond academic research, I explore **quantitative finance** and **AI engineering**, experimenting with predictive modeling, reinforcement learning, and scalable deployment workflows.
+Beyond academic research, I explore **ML in healthcare**, **AI engineering**, and **quantitative finance**, experimenting with predictive modeling, reinforcement learning, and scalable deployment workflows.
 
 ---
 
