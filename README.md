@@ -51,7 +51,7 @@ Beyond academic research, I explore **ML in healthcare**, **AI engineering**, an
 -->
 
 ### 📊 Current Focus
-- Finalizing M.S. thesis on **Sepsis Mortality Prediction** (Nov 2025)
+- Finalizing M.S. thesis on **Sepsis Mortality Prediction** (Dec 2025)
 - Prototyping advanced **deep learning** and **reinforcement learning** agents for applied research
 - Expanding **MLOps infrastructure** with Docker, MLflow, and GitHub Actions CI/CD automation
 
@@ -64,7 +64,15 @@ Framework-specific mini-repos showcasing reproducible ML workflows:
 - [**TensorFlow**](https://github.com/tylerkelly7/TensorFlow): End-to-end model training with checkpoints, callbacks, and CI/CD testing
 - [**Docker**](https://github.com/tylerkelly7/Docker): Reproducible docker containerization techniques
 - [**MLflow**](https://github.com/tylerkelly7/MLflow): Reproducible workflows and experiment tracking using MLflow
+<!--
+- [**Spark**](https://github.com/tylerkelly7/Spark):
+- [**JAX**]
+- [**HPC**]
 - [**Airflow**](https://github.com/tylerkelly7/Airflow): Data orchestration and scheduled retraining workflows
+- [**Python Visualization**]
+- [**CI/CD]
+-->
+
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tylerkelly7/)
