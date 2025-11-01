@@ -29,7 +29,7 @@ Beyond academic research, I explore **ML in healthcare**, **AI engineering**, an
 | **NLP Libraries** | Word2Vec • Transformers (BERT / ClinicalBERT) |
 | **Model Development** | Feature Engineering • Hyperparameter Tuning • Cross-Validation |
 | **MLOps / Reproducibility** | Docker • MLflow • GitHub Actions • CI/CD |
-| **Visualization** | ggplot • Matplotlib • Seaborn • Plotly • Streamlit Dashboards |
+| **Visualization** | ggplot • Matplotlib • Seaborn •|
 | **Other Skills** | Statistical Inference • Experimental Design • Data Cleaning |
 
 ---
