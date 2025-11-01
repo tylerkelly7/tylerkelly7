@@ -34,11 +34,13 @@ Beyond academic research, I explore **ML in healthcare**, **AI engineering**, an
 
 ---
 
-<!--
+
 ### 📂 Featured Projects
 
 #### 🩺 **Healthcare & Biostatistics**
-- [**Masters-Thesis**](https://github.com/tylerkelly7/Masters-Thesis): *Predicting Sepsis Mortality* using multi-modal EHR data (Word2Vec + BERT embeddings, SMOTE, SHAP, MLflow tracking).
+- [**Masters-Thesis**](https://github.com/tylerkelly7/Masters-Thesis): *Predicting Sepsis Mortality* using multi-modal EHR data (Word2Vec, SMOTE, SHAP, MLflow tracking).
+
+<!--
 - [**Fairness in Healthcare ML**](https://github.com/tylerkelly7/Fairness-Audit): Auditing model bias across demographic subgroups.
 - [**Readmission Risk Calculator**](https://github.com/tylerkelly7/Readmission-Risk): Streamlit app for patient-level readmission prediction.
 
