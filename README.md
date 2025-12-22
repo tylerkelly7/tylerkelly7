@@ -53,7 +53,6 @@ Beyond academic research, I explore **ML in healthcare**, **AI engineering**, an
 -->
 
 ### 📊 Current Focus
-- Finalizing M.S. thesis on **Sepsis Mortality Prediction** (Dec 2025)
 - Prototyping advanced **deep learning** and **reinforcement learning** agents for applied research
 - Expanding **MLOps infrastructure** with Docker, MLflow, and GitHub Actions CI/CD automation
 
