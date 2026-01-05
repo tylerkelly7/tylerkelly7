@@ -4,7 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, I'm **Tyler Kelly**
-*Bridging statistical research, machine learning, and applied engineering.*
 
 🎓 **M.S. Biostatistics @ University of Pittsburgh**  
 💡 Machine Learning | NLP | MLOps | Data Science | Statistical Analysis  
@@ -13,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🧠 Summary
-I’m passionate about **building end-to-end machine learning pipelines** — from data ingestion and feature engineering to model deployment and reproducibility.  
-My current graduate research focuses on developing robust, interpretable ML workflows using both structured and unstructured EHR data.
+I’m enjoy building end-to-end machine learning pipelines from data ingestion and feature engineering to model deployment and reproducibility.  
+My graduate work focused on developing robust, interpretable ML workflows using both structured and unstructured EHR data.
 
-Beyond academic research, I explore **ML in healthcare**, **AI engineering**, and **quantitative finance**, experimenting with predictive modeling, reinforcement learning, and scalable deployment workflows.
+Beyond academic research, I explore ML in healthcare, AI engineering, and quantitative finance, experimenting with predictive modeling, large language modeling and scalable deployment workflows.
 
 ---
 
@@ -26,10 +25,10 @@ Beyond academic research, I explore **ML in healthcare**, **AI engineering**, an
 |---------------|---------------------------|
 | **Languages** | Python • R • SQL • Bash |
 | **ML / DL Frameworks** | Scikit-learn • XGBoost • LightGBM • PyTorch • TensorFlow |
-| **NLP Libraries** | Word2Vec • Transformers (BERT / ClinicalBERT) |
+| **NLP Libraries** | Word2Vec • LLMs (gpt-based) • Transformers (BERT / ClinicalBERT) |
 | **Model Development** | Feature Engineering • Hyperparameter Tuning • Cross-Validation |
 | **MLOps / Reproducibility** | Docker • MLflow • GitHub Actions • CI/CD |
-| **Visualization** | ggplot • Matplotlib • Seaborn •|
+| **Visualization** | ggplot • Matplotlib • Seaborn |
 | **Other Skills** | Statistical Inference • Experimental Design • Data Cleaning |
 
 ---
@@ -38,7 +37,7 @@ Beyond academic research, I explore **ML in healthcare**, **AI engineering**, an
 ### 📂 Featured Projects
 
 #### 🩺 **Healthcare & Biostatistics**
-- [**Masters-Thesis**](https://github.com/tylerkelly7/Masters-Thesis): *Predicting Sepsis Mortality* using multi-modal EHR data (Word2Vec, SMOTE, SHAP, MLflow tracking).
+- [**Sepsis-Mortality-Prediction**](https://github.com/tylerkelly7/Sepsis-Mortality-Prediction): *Predicting Sepsis Mortality* using multi-modal EHR data (Word2Vec, SMOTE, SHAP, MLflow tracking).
 
 <!--
 - [**Fairness in Healthcare ML**](https://github.com/tylerkelly7/Fairness-Audit): Auditing model bias across demographic subgroups.
@@ -53,6 +52,7 @@ Beyond academic research, I explore **ML in healthcare**, **AI engineering**, an
 -->
 
 ### 📊 Current Focus
+- Integrating **large language models (LLMs)** into end-to-end prediction workflows
 - Prototyping advanced **deep learning** and **reinforcement learning** agents for applied research
 - Expanding **MLOps infrastructure** with Docker, MLflow, and GitHub Actions CI/CD automation
 
@@ -63,9 +63,9 @@ Framework-specific mini-repos showcasing reproducible ML workflows:
 
 - [**PyTorch**](https://github.com/tylerkelly7/PyTorch): CNNs, RNNs, and transfer learning pipelines with experiment tracking
 - [**TensorFlow**](https://github.com/tylerkelly7/TensorFlow): End-to-end model training with checkpoints, callbacks, and CI/CD testing
+<!--
 - [**Docker**](https://github.com/tylerkelly7/Docker): Reproducible docker containerization techniques
 - [**MLflow**](https://github.com/tylerkelly7/MLflow): Reproducible workflows and experiment tracking using MLflow
-<!--
 - [**Spark**](https://github.com/tylerkelly7/Spark):
 - [**JAX**]
 - [**HPC**]
