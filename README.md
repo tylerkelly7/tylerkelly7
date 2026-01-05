@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🧠 Summary
-I’m enjoy building end-to-end machine learning pipelines from data ingestion and feature engineering to model deployment and reproducibility.  
+I enjoy building end-to-end machine learning pipelines from data ingestion and feature engineering to model deployment and reproducibility.  
 My graduate work focused on developing robust, interpretable ML workflows using both structured and unstructured EHR data.
 
 Beyond academic research, I explore ML in healthcare, AI engineering, and quantitative finance, experimenting with predictive modeling, large language modeling and scalable deployment workflows.
